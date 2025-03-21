@@ -8,11 +8,11 @@ Hello, I’m Stephen Muñez and I enjoy creating things that live on the web.
 
 I’ve had the privilege of working at a [Web3 start-up](https://unit.network/), at a couple of creative digital agencies: ([Code and Theory](https://www.codeandtheory.com) and [Make Technology](https://www.make.technology)) and currently at [SOCi, Inc.](https://meetsoci.com), a marketing platform for multi-location brands.
 
-Throughout my career, I’ve embraced a _’technology-agnostic’_ approach to development—a mindset I learned from my seniors. I strive to maintain a strong grasp of the fundamentals while remaining adaptable across different tech stacks.
+Throughout my career, I’ve embraced a _’technology-agnostic’_ approach to development—a mindset I learned from my seniors. I focus on mastering the fundamentals while staying adaptable across different tech stacks.
 
 ## 🛠️ Technologies & Tools
 
-Here are a few technologies I’ve been working with recently:
+Here are a few technologies I’ve been working with lately:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge" />
