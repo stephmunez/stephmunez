@@ -12,7 +12,9 @@ Throughout my career, I’ve embraced a _’technology-agnostic’_ approach to 
 
 ## 🛠️ Technologies & Tools
 
-Here are a few technologies I’ve been working with lately:
+I am very passionate with web technologies and have a goal to learn a technology/framework every quarter in the last couple of years, ensuring I stay at the cutting edge of web development innovation.
+
+So here are a few technologies I've been working with lately:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge" />
