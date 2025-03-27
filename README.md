@@ -63,6 +63,8 @@ Here are some of the technologies I’ve been working with recently:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge" alt="Bun Badge">
+  <img src="https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=000&style=for-the-badge" alt="Deno Badge">
 </p>
 
 ## 🏃🏽‍➡️ When I’m not coding
