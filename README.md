@@ -45,6 +45,7 @@ Here are some of the technologies I’ve been working with recently:
   <img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge" alt="Auth0 Badge">
   <img src="https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=for-the-badge" alt="Contentful Badge" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" alt="Headless WordPress Badge" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge" alt="Socket.io Badge">
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge" />
   <img src="https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge" alt="GreenSock Badge" />
