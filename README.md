@@ -37,6 +37,7 @@ Here are some of the technologies I’ve been working with recently:
   <img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge" alt="Redis Badge" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge" alt="Firebase Badge" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" alt="Supabase Badge" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=fff&style=for-the-badge" alt="Appwrite Badge">
   <img src="https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge" alt="Mongoose Badge" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge" alt="Prisma Badge" />
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=for-the-badge" alt="Drizzle Badge" />
