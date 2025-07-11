@@ -59,6 +59,7 @@ Here are some of the technologies I’ve been working with recently:
   <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff&style=for-the-badge" alt="Hostinger Badge">
   <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios Badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge" alt="Sentry Badge">
   <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge" />
