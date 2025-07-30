@@ -47,11 +47,13 @@ Here are some of the technologies I’ve been working with recently:
   <img src="https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=for-the-badge" alt="Contentful Badge" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" alt="Headless WordPress Badge" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge" alt="Redux Badge">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge" alt="Zod Badge">
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge" alt="Socket.io Badge">
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge" />
   <img src="https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge" alt="GreenSock Badge" />
   <img src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge" alt="Framer Badge" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="shadcn/ui Badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge" />
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel Badge" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" alt="Netlify Badge" />
