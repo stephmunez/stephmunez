@@ -82,10 +82,6 @@ Here are some of the technologies I’ve been working with recently:
 
 When I’m not coding, you’ll find me getting my sweat on to offset long hours of sitting and to boost my energy for creative problem solving. I enjoy lifting weights, running outdoors, and swimming laps, but I’ve yet to explore cycling to complete the trio!
 
-If you’re looking for a developer who’s versatile, detail-oriented, and passionate about creating seamless user experiences, I’d love to collaborate and bring your next idea to life.
-
-Feel free to check out my work and see some of the projects I’ve been building. :)
-
 ## 📈 GitHub Stats
 
 <div align="left">
@@ -99,3 +95,7 @@ Feel free to check out my work and see some of the projects I’ve been building
 
 
 ## Thanks for stopping by! 👍🏽
+
+If you’re looking for a developer who’s versatile, detail-oriented, and passionate about creating seamless user experiences, I’d love to collaborate and bring your next idea to life.
+
+Feel free to check out my work and see some of the projects I’ve been building. :)
