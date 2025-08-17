@@ -4,15 +4,15 @@ Welcome to my GitHub profile! Below you'll find more about me.
 
 ## 🚀 About Me
 
-Hello, I’m Stephen Muñez and I enjoy creating things that live on the web.
+Hello, I’m Stephen Muñez. I help companies and teams bring ideas to life on the web.
 
-I’ve had the privilege of working at a [Web3 start-up](https://unit.network/), at a couple of creative digital agencies: ([Code and Theory](https://www.codeandtheory.com) and [Make Technology](https://www.make.technology)) and currently at [SOCi, Inc.](https://meetsoci.com), a marketing platform for multi-location brands.
+Whether you need a high-performance marketing site or a scalable web app, I take a ’technology-agnostic’ approach, choosing the tools that best fit your needs, not just my preferences. While React with MERN or Next.js is often my go-to, I stay focused on mastering fundamentals and remaining adaptable across tech stacks.
 
-Throughout my career, I’ve embraced a _’technology-agnostic’_ approach to development—a mindset I learned from my seniors. I focus on mastering the fundamentals while staying adaptable across different tech stacks.
+I’ve helped a [Web3 platform](https://unit.network/), creative digital agencies like ([Code and Theory](https://www.codeandtheory.com) and [Make Technology](https://www.make.technology)), and [one of the top multi-location marketing platform in the U.S.](https://meetsoci.com) deliver digital experiences that connect with audiences and drive results.
+
+I’m committed to staying ahead of the curve, learning a new technology or framework every quarter. This helps me bring the latest innovations in web development without compromising stability or maintainability.
 
 ## 🛠️ Technologies & Tools
-
-I have a deep passion for web technologies and have made it a goal to learn a new technology or framework each quarter over the past few years. This commitment helps me stay at the forefront of web development innovation.
 
 Here are some of the technologies I’ve been working with recently:
 
@@ -70,7 +70,7 @@ Here are some of the technologies I’ve been working with recently:
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge" />
 </p>
 
-### ...and I’m currently learning:
+### ...and currently, I’m expanding my toolkit with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge" />
@@ -80,7 +80,11 @@ Here are some of the technologies I’ve been working with recently:
 
 ## 🏃🏽‍➡️ When I’m not coding
 
-When I’m not coding, you’ll find me getting my sweat on to offset long hours of sitting. I enjoy lifting weights, running outdoors, and swimming laps, but I’ve yet to explore cycling to complete the trio!
+When I’m not coding, you’ll find me getting my sweat on to offset long hours of sitting and to boost my energy for creative problem solving. I enjoy lifting weights, running outdoors, and swimming laps, but I’ve yet to explore cycling to complete the trio!
+
+If you’re looking for a developer who’s versatile, detail-oriented, and passionate about creating seamless user experiences, I’d love to collaborate and bring your next idea to life.
+
+Feel free to check out my work and see some of the projects I’ve been building. :)
 
 ## 📈 GitHub Stats
 
